@@ -1,6 +1,6 @@
 # Team Brahmand
 
-[![Website](https://img.shields.io/badge/Website-Visit_Site-7b3fe4?style=for-the-badge)](https://team-brahmand.github.io)
+[![Website](https://img.shields.io/badge/Website-Visit_Site-7b3fe4?style=for-the-badge)](https://team-bramhand.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/team-brahmand-iiith)
 
 ## About Us
